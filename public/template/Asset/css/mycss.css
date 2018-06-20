@@ -1,0 +1,44 @@
+@charset "utf-8";
+
+.gambar-kaget{
+  display: inline-block;
+  width: 100%;
+  padding: 120px 0 0 0;
+  height: 100px;
+  overflow: hidden;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  background: url('http://archisnapper.com/cloud.png') center center no-repeat #e4e4e4;
+  border-radius: 20px;
+  background-size: 150px 100px;}
+
+/*CSS HEADER*/
+#H-b1 .b-15 {width:300px;}
+
+
+/*CSS profile*/
+#P-b24 .b-26 {background:#fff; padding:15px 0px;}
+#P-b24 .b-27 {text-align:center;}
+#P-b24 .b28 {text-align:center;}
+#P-b24 .b-30 {font-size:15px;color:#333333;}
+#P-b24 .b-34 {background:#fff;}
+#P-b24 .b-35 {font-size:15px;}
+#P-b24 .b-113 {padding-bottom:10px;}
+#P-b24 .b-119 {border-top:5px solid #ecf0f5;}
+#P-b24 .b-127 {margin-bottom:30px;padding:10px 10px; text-align:center;border:2px solid #3c8dbc;}
+#P-b24 .b-141 {border:1px solid #ecf0f5;}
+#P-b24 .b-143 {margin-bottom:15px;}
+#P-b24 .b-149 {margin:20px 0px;}
+
+#myBtn {    width: 50px;
+    height: 50px;
+    position: fixed;
+    right: 25px;
+    display: none;
+    bottom: 50px;}
+
+
+
+
+
